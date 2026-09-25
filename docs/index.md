@@ -1,4 +1,23 @@
-![Avara](assets/images/header.png)
+---
+title: The World of Avara
+hide:
+  - toc
+---
+
+<div class="world-hero">
+  <img src="assets/images/header.png" alt="All Roads Lead to the Thousand Thrones — castles, banners, and marching armies across Avara" width="2048" height="768">
+  <div class="hero-caption"><span>A continent divided. A thousand crowns.</span><a href="#avara">Enter the world <span aria-hidden="true">↓</span></a></div>
+</div>
+
+<div class="chapter-label">The world chronicle · Chapter I</div>
+
+# Avara
+
+<p class="chapter-deck">A thousand roads leading toward a thousand thrones.</p>
+
+<nav class="chapter-jumps" aria-label="Explore this chapter"><a href="#a-continent-divided">The divided continent</a><a href="#the-empires-ambition">The Empire</a><a href="mana/">Mana &amp; Praedari <span aria-hidden="true">↗</span></a></nav>
+
+## A continent divided
 
 Avara stretches across nearly Sixty million square kilometers of land, vast enough for kingdoms to rise, conquer their neighbors, and vanish before distant peoples ever learn their names.
 
@@ -37,6 +56,8 @@ A thousand crowns.
 A thousand claims.
 
 A thousand roads leading toward a thousand thrones.
+
+## The Empire’s ambition
 
 Yet one empire looks upon this endless division and sees something far worse than tragedy.
 

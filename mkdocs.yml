@@ -2,12 +2,26 @@ site_name: All Roads Lead to the Thousand Thrones
 
 theme:
   name: material
+  font: false
+  icon:
+    logo: material/compass-rose
+  features:
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
   palette:
     scheme: slate
 
 nav:
-  - Home: index.md
-  - Mana: mana.md
+  - The World of Avara: index.md
+  - Mana & Praedari: mana.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
 
 extra_css:
   - stylesheets/extra.css

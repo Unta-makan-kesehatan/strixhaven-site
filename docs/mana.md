@@ -1,6 +1,6 @@
-# Mana
+# **Mana**
 
-**Mana is life.** test
+*Mana is life.*
 
 It's in a newborn's first breath, in the slow pulse under an old man's skin, in tree roots buried under winter soil. Most people never feel it, never see it, never think twice about the mana that kept their heart beating.
 
@@ -16,7 +16,7 @@ For most people, mana is just the line between being alive and being dead.
 
 For a few, it's the line between what they were born with and what they could become.
 
-## Mana Reinforcement and Resistance
+## **Mana Reinforcement and Resistance**
 
 As a Praedari becomes more experienced, mana does more than provide power for deliberate techniques. It begins to settle deeper into the body itself.
 
@@ -60,9 +60,7 @@ Against ordinary people, enchantment makes a weapon better.
 
 Against an Exceptional Praedari, enchantment is what makes the weapon a weapon at all.
 
-## Praedari
-
-### **Praedari**
+## **Praedari**
 
 Praedari is the name given to anyone born able to hold onto more mana than the body actually needs beyond just staying alive. For most, the gift doesn't show itself until somewhere around adulthood, and from there, training decides what that surplus becomes. It might sharpen the mind, strengthen flesh and bone, quicken the nerves, deepen the senses, make minds outstretched beyond what is normal, or get shaped into outright magic. The path looks different for every Praedari, but the advantage is there from the start.
 
@@ -72,7 +70,7 @@ Mana changes the body , the stronger a Praedari gets, the longer they tend to li
 
 That's why Praedari tend to be respected and feared in roughly equal measure. Their gifts have produced famous warriors, scholars, artists, rulers, hunters, and spellcasters over the years, but admiration for them has never crowded out of caution.
 
-### **Praedari Ranks**
+## **Praedari Ranks**
 
 Not all Praedari develop to the same degree.
 
@@ -96,7 +94,7 @@ The ranks are not guarantees of victory. Discipline, experience, equipment, prep
 
 The rank describes what a Praedari's mana has become.
 
-#### **Tiro**
+### **Tiro**
 
 Tiro is the lowest recognized stage of Praedari development. Almost all Tiro within Valeria are first- or second-year students studying within one of the Four Chartered Academies, though the term can also apply to newly discovered Praedari who have only recently begun formal cultivation.
 
@@ -114,7 +112,7 @@ At this stage, Valeria does not concern itself too much with which is which.
 
 That is what the academies are meant to discover.
 
-#### **Peritus**
+### **Peritus**
 
 Peritus is the first rank considered to possess a firm and reliable foundation in mana.
 
@@ -132,7 +130,7 @@ Military Peritus are generally assigned to dedicated **Praedari units**, where t
 
 For most academy graduates, Peritus is where education ends and actual life begins.
 
-#### **Potens**
+### **Potens**
 
 Potens represents an experienced Praedari, someone who has moved beyond the foundations of mana and learned to use it with practiced confidence.
 
@@ -152,7 +150,7 @@ They are not merely trained mana-users anymore.
 
 They are veteran practitioners, Praedari who have used their abilities long enough that mana has become inseparable from the way they work, fight, and solve problems.
 
-#### **Excelsus**
+### **Excelsus**
 
 Excelsus represents one of the most noticeable leaps in Praedari development.
 
@@ -186,7 +184,7 @@ Their numbers are limited enough that commanders cannot afford to deploy them ca
 
 They are not soldiers the Empire spends casually.
 
-#### **Eminens**
+### **Eminens**
 
 Eminens represents another enormous leap in Praedari development.
 
@@ -234,7 +232,7 @@ They are among the most heavily cultivated, extensively equipped, and carefully 
 
 When an Eminens enters the field, the battle has already become serious enough for Valeria to spend something it does not possess in abundance.
 
-#### **Supremus**
+### **Supremus**
 
 Supremus is the highest recognized rank of Praedari within Valeria.
 
