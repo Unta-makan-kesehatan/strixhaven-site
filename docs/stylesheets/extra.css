@@ -116,3 +116,11 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
     aspect-ratio: 16 / 9;
   }
 }
+.md-typeset h1:has(+ .mana-tagline) {
+  margin-bottom: 0.15rem;
+}
+
+.mana-tagline {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
