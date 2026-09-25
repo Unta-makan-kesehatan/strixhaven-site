@@ -10,7 +10,7 @@
 
 It's in a newborn's first breath, in the slow pulse under an old man's skin, in tree roots buried under winter soil. Most people never feel it, never see it, never think twice about the mana that kept their heart beating.
 
-Maybe one in twenty finds out, usually somewhere around adulthood, that each breath leaves something behind. In them it gathers instead of passing through, at first it's barely something, warmth under the skin, strength that comes too easily, a moment where the world seems to slow down for no reason. Then, if they're lucky, someone teaches them what it means.
+Each race has their own rates to mana retention, for humans it's one in twenty. The person will figure the mana retention somewhere around early adulthood. They can feel each breath leaves something behind. Inside their body the mana gathers instead of passing through, at first it's barely something, warmth under the skin, strength that comes too easily, a moment where the world seems to slow down for no reason. Then, if they're lucky, someone teaches them what it means.
 
 Training lets the body hold more, move it faster, waste less on the same motion. Talent helps, discipline helps more. There are supposed limits to all of this, though enough people have broken them over the years that nobody seriously calls a limit absolute anymore.
 
@@ -35,7 +35,7 @@ For a few, it's the line between what they were born with and what they could be
 
     <div class="mana-summary__step">
       <span>Retention</span>
-      <p>Roughly one person in twenty retains more than survival requires.</p>
+      <p>small part of the population retains more than survival requires.</p>
     </div>
 
     <div class="mana-summary__step">
