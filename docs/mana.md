@@ -123,6 +123,38 @@ The ranks are not guarantees of victory. Discipline, experience, equipment, prep
 
 The rank describes what a Praedari's mana has become.
 
+<ol class="rank-progression" aria-label="Praedari rank progression">
+  <li>
+    <span class="rank-progression__name">Tiro</span>
+    <span class="rank-progression__role">Student</span>
+  </li>
+
+  <li>
+    <span class="rank-progression__name">Peritus</span>
+    <span class="rank-progression__role">Trained</span>
+  </li>
+
+  <li>
+    <span class="rank-progression__name">Potens</span>
+    <span class="rank-progression__role">Veteran</span>
+  </li>
+
+  <li>
+    <span class="rank-progression__name">Excelsus</span>
+    <span class="rank-progression__role">Elite</span>
+  </li>
+
+  <li>
+    <span class="rank-progression__name">Eminens</span>
+    <span class="rank-progression__role">Strategic</span>
+  </li>
+
+  <li>
+    <span class="rank-progression__name">Supremus</span>
+    <span class="rank-progression__role">Supreme</span>
+  </li>
+</ol>
+
 ### **Tiro**
 
 Tiro is the lowest recognized stage of Praedari development. Almost all Tiro within Valeria are first- or second-year students studying within one of the Four Chartered Academies, though the term can also apply to newly discovered Praedari who have only recently begun formal cultivation.

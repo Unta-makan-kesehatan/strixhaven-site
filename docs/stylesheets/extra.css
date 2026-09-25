@@ -197,3 +197,78 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
     left: 0;
   }
 }
+.rank-progression {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 0.8rem;
+  max-width: none !important;
+  margin: 2rem 0 2.5rem;
+  padding: 1.2rem 1rem;
+  list-style: none;
+  background: linear-gradient(135deg, #171d16, #20261d);
+  border: 1px solid #b8a06b55;
+  border-radius: 3px;
+}
+
+.rank-progression li {
+  position: relative;
+  min-width: 0;
+  padding: 0 0.25rem;
+  text-align: center;
+}
+
+.rank-progression li:not(:last-child)::after {
+  content: "→";
+  position: absolute;
+  top: 0.1rem;
+  right: -0.7rem;
+  color: #d7b777;
+  font-family: Arial, sans-serif;
+}
+
+.rank-progression__name {
+  display: block;
+  overflow-wrap: anywhere;
+  color: #efe2c5;
+  font-family: Arial, sans-serif;
+  font-size: 0.57rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.rank-progression__role {
+  display: block;
+  margin-top: 0.35rem;
+  color: #aaa492;
+  font-family: Georgia, serif;
+  font-size: 0.62rem;
+  font-style: italic;
+}
+
+@media (max-width: 35em) {
+  .rank-progression {
+    grid-template-columns: 1fr;
+    gap: 1.4rem;
+    padding: 1.2rem;
+  }
+
+  .rank-progression li {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    align-items: baseline;
+    padding-left: 1.5rem;
+    text-align: left;
+  }
+
+  .rank-progression li:not(:last-child)::after {
+    content: "↓";
+    top: 1.45rem;
+    right: auto;
+    left: 0.15rem;
+  }
+
+  .rank-progression__role {
+    margin-top: 0;
+  }
+}
