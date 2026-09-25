@@ -4,7 +4,7 @@
 
 <img
   class="mana-banner"
-  src="assets/images/mana-banner.png"
+  src="../assets/images/mana-banner.png"
   alt="Mana artwork"
 />
 
