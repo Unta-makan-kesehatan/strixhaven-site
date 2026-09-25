@@ -123,37 +123,25 @@ The ranks are not guarantees of victory. Discipline, experience, equipment, prep
 
 The rank describes what a Praedari's mana has become.
 
-<ol class="rank-progression" aria-label="Praedari rank progression">
-  <li>
-    <span class="rank-progression__name">Tiro</span>
-    <span class="rank-progression__role">Student</span>
-  </li>
+<figure class="rank-plate">
+  <a
+    class="rank-plate__link"
+    href="../assets/images/praedari%20rank.png"
+    target="_blank"
+    rel="noopener"
+    title="Open the Praedari rank hierarchy at full size"
+  >
+    <img
+      class="rank-plate__image"
+      src="../assets/images/praedari%20rank.png"
+      alt="The six Praedari ranks ascending from Tiro to Supremus"
+    />
+  </a>
 
-  <li>
-    <span class="rank-progression__name">Peritus</span>
-    <span class="rank-progression__role">Trained</span>
-  </li>
-
-  <li>
-    <span class="rank-progression__name">Potens</span>
-    <span class="rank-progression__role">Veteran</span>
-  </li>
-
-  <li>
-    <span class="rank-progression__name">Excelsus</span>
-    <span class="rank-progression__role">Elite</span>
-  </li>
-
-  <li>
-    <span class="rank-progression__name">Eminens</span>
-    <span class="rank-progression__role">Strategic</span>
-  </li>
-
-  <li>
-    <span class="rank-progression__name">Supremus</span>
-    <span class="rank-progression__role">Supreme</span>
-  </li>
-</ol>
+  <figcaption>
+    The six recognized Praedari ranks of Valeria. Select the image to view it at full size.
+  </figcaption>
+</figure>
 
 ### **Tiro**
 
