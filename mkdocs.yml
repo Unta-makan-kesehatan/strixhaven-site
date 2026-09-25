@@ -16,6 +16,7 @@ theme:
 nav:
   - The World of Avara: index.md
   - Mana & Praedari: mana.md
+  - The Gods: the gods.md
   - Races: races.md
 
 markdown_extensions:
