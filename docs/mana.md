@@ -22,6 +22,29 @@ For most people, mana is just the line between being alive and being dead.
 
 For a few, it's the line between what they were born with and what they could become.
 
+<aside class="mana-summary" aria-labelledby="mana-summary-title">
+  <p class="mana-summary__title" id="mana-summary-title">
+    Mana at a Glance
+  </p>
+
+  <div class="mana-summary__steps">
+    <div class="mana-summary__step">
+      <span>Life</span>
+      <p>Mana sustains every living body.</p>
+    </div>
+
+    <div class="mana-summary__step">
+      <span>Retention</span>
+      <p>Roughly one person in twenty retains more than survival requires.</p>
+    </div>
+
+    <div class="mana-summary__step">
+      <span>Cultivation</span>
+      <p>Training develops that surplus into power.</p>
+    </div>
+  </div>
+</aside>
+
 ## **Mana Reinforcement and Resistance**
 
 As a Praedari becomes more experienced, mana does more than provide power for deliberate techniques. It begins to settle deeper into the body itself.
