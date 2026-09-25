@@ -1,0 +1,13 @@
+site_name: All Roads Lead to the Thousand Thrones
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Home: index.md
+  - Mana: mana.md
+
+extra_css:
+  - stylesheets/extra.css
